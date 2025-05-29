@@ -1,4 +1,5 @@
 usuarios= {}
+usuario2 = []
 op = 1
 while op < 3:
     usuario_ok=False
@@ -31,7 +32,7 @@ while op < 3:
            print("2._Crear/modificar/eliminar Actores:")
            print("3._salir:")
            op=int(input("Ingrese opcion seleccionada"))
- 
+print("programa ha concluido") 
 
 
                 
